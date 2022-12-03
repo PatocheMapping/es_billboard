@@ -58,6 +58,9 @@ On your Keyboard press " F6 " .( You can edit the Key on your config key, press 
  I have a billboard limit ?
 - No , you can place 5 billboards or 200 on the map.
 
+ Can i delete "patoche_demo_all_billboard_pose" on es_billboard>stream>[YOUR_YMAP_SAVE]
+ - Yes, it's just an exemple for show you all Billboard Props
+
  I can place a billboard on city center and one on paleto on the same XML ?
 - Yes , but separate by place to better find you there and that it is more optimized
 
