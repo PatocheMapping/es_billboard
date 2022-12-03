@@ -39,8 +39,8 @@ exemple :
 
 # How activate es_billboard in game
 
-On the console (F8) write " billboard "<!--  -->
-On the tchat write " /billboard ".<!--  -->
+On the console (F8) write " billboard "  <!--  -->
+On the tchat write " /billboard ".  <!--  -->
 On your Keyboard press " F6 " ( You can edit the Key on your config key, press Esc , and check on your FIVEM OPTION KEY LIST)
 
 
