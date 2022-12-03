@@ -2,7 +2,7 @@
 Es_billboard is a little rework of Es_mapper
 
 
-Summary : 
+# Summary : 
 - 1) Add security so that not everyone can use the script.
 - 2) How activate es_billboard in game.
 - 3) REGULAR Questions
@@ -10,13 +10,13 @@ Summary :
 - 5) Replace Texture
 - 6) Shortcut of es_billboard
 
--
-----------------------------------------------------------------------------
-            Add security so that not everyone can use the script
-----------------------------------------------------------------------------
 
 
-[[[[ Add this line inside your cfg to add the permission ]]]]
+# Add security so that not everyone can use the script
+
+
+
+Add this line inside your cfg to add the permission
 
       add_ace group.admin billboard allow # allow admin to use billboard menu
 
