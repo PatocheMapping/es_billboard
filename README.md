@@ -1,6 +1,7 @@
 # fxserver-es_billboard
 Es_billboard is a little rework of Es_mapper
 
+# Work Standalone ( compatible Esx/Qbcore)
 
 # Summary : 
 - 1- Add security so that not everyone can use the script.
