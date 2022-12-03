@@ -3,12 +3,12 @@ Es_billboard is a little rework of Es_mapper
 
 
 # Summary : 
-- 1) Add security so that not everyone can use the script.
-- 2) How activate es_billboard in game.
-- 3) REGULAR Questions
-- 4) CONVERT XML to YMAP
-- 5) Replace Texture
-- 6) Shortcut of es_billboard
+- 1- Add security so that not everyone can use the script.
+- 2- How activate es_billboard in game.
+- 3- REGULAR Questions
+- 4- CONVERT XML to YMAP
+- 5- Replace Texture
+- 6- Shortcut of es_billboard
 
 
 
