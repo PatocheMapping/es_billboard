@@ -74,8 +74,9 @@ And about the Texture, you can send the PNG file to someone, he creat the new te
 
  That can be a TEAM Work ? 
 - Yes , export the texture on PNG , send it to someone , someone admin can use the /billboard and place billboard , and you just convert the work and replace the texture on the library.
-
-
+ 
+ Maps not saving?
+- if you can't find the maps that you create, The maps folder is missing in your directory. Simply go to es_billboard location in your resources and create a folder called maps and restart your server.
 
 # CONVERT XML to YMAP ( handling takes less than 3 minutes )
 
