@@ -1,6 +1,17 @@
 # fxserver-es_billboard
 Es_billboard is a little rework of Es_mapper
 
+# Update 12/05/2023 
+Some server have problems related with the permissions to prevent that their citizen can use es_billard ! 
+I have creat a easy way to fixe it.
+
+On your (cfx) page you can find [2] zip : 
+- es_billoard
+- es_billoard_map
+
+"Now, you install both ( es_billboard & es_billoard_map ) and when you have finish to install your advertasing, you can unstart es_billoard to prevent people can use the F6 or /billoard, and your
+advertasing pose stay on the server because your es_billoard_map with your YMAP advertasing is already start/ensure."
+
 # Work Standalone ( compatible Esx/Qbcore)
 
 # Summary : 
